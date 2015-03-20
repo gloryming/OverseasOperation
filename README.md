@@ -1,6 +1,6 @@
 # Overseas Operation 
 
-This repo just sharing little overseas operation experience of App &amp; Game during my work.
+This repo just sharing little overseas operation experience of App &amp; Game in my work.
 
 ## Start with Why
 
@@ -20,7 +20,9 @@ Many indie developers are stucked in operating products themselives. I'm one of 
 
 ## How to operate a product
 
-There are differences when operating apps and games. However, they still have something in common. Basically, you should find competitors and track them, find overseas cooperation partners, do ASO job, conduct promotion events and analysis users.
+There are differences between operating apps and games. However, they still have something in common. Basically, you should find competitors and track them, find overseas cooperation partners, do ASO job, conduct promotion events and analysis users.
+
+As for App, the most important thing you should remember is creating contents that all the users can involve in. The quality of you product can imporve during the updating. So the next thing is letting your users help you optimize the product. It means you should listen your users' voice. The other critical element in the whole cycle of marketing is 
 
 - App
 - Game
